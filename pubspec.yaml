@@ -35,27 +35,27 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.4
   get: ^4.6.1
-  dio: ^4.0.4
+  dio: ^4.0.6
   #屏幕适配
-  flutter_screenutil: ^5.3.1
+  flutter_screenutil: ^5.4.0
   #轻量数据持久化
   sp_util: ^2.0.3
   #SQLite数据库
   sqflite: ^2.0.2
   #包信息插件
-  package_info_plus: ^1.4.0
+  package_info_plus: ^1.4.2
   #轮播图
-  card_swiper: ^2.0.1
+  card_swiper: ^2.0.3
   #吐司
   bot_toast: ^4.0.1
   #下拉刷新
   pull_to_refresh: ^2.0.0
   #执行原生的各种跳转
-  url_launcher: ^6.0.18
+  url_launcher: ^6.0.20
   #权限管理
-  permission_handler: ^9.1.0
+  permission_handler: ^9.2.0
   #图片组件
-  extended_image: ^6.0.1
+  extended_image: ^6.0.2+1
   #工具类
   common_utils: ^2.1.0
   #侧滑删除

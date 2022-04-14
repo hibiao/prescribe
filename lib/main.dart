@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       designSize: const Size(750, 1334),
       minTextAdapt: true,
       splitScreenMode: true,
-      builder: () {
+      builder: (context) {
         final botToastBuilder = BotToastInit();
         return GetMaterialApp(
           debugShowCheckedModeBanner: false,
