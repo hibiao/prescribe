@@ -1,6 +1,6 @@
 # prescribe
 
-A new Flutter project.
+这是使用flutter制作的一款简单的app，适合中医从医者管理药方。
 
 ## Getting Started
 
